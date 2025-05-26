@@ -12,5 +12,5 @@ AZURE |
 👨‍🏫👨‍🏫 LEARNING:
 PYTHON | 
 C | 
-BLENDER FOR COOL UIs | 
+BLENDER & REACT FOR COOL UIs | 
 DOCKER | 
