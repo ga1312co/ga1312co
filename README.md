@@ -7,7 +7,6 @@ C# |
 HTML | 
 CSS |
 JS | 
-AZURE | 
 
 👨‍🏫👨‍🏫 LEARNING:
 PYTHON | 
