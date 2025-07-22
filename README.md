@@ -11,6 +11,4 @@ AZURE |
 
 👨‍🏫👨‍🏫 LEARNING:
 PYTHON | 
-C | 
-BLENDER & REACT FOR COOL UIs | 
-DOCKER | 
+PENTESTING |
