@@ -1,13 +1,10 @@
 ## 🐗 GABRIELS 🦍
 
-💪💪 PROFICIENT IN:
+💪💪 SKILLS
 ☕JAVA | 
 SQL | 
 C# | 
 HTML | 
 CSS |
 JS | 
-
-👨‍🏫👨‍🏫 LEARNING:
-PYTHON | 
-PENTESTING |
+🐳 DOCKER |
